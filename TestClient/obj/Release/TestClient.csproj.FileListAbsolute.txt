@@ -1,0 +1,8 @@
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\bin\Release\TestClient.exe.config
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\bin\Release\TestClient.exe
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\bin\Release\TestClient.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\bin\Release\ClearUsernameBinding.dll
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\bin\Release\ClearUsernameBinding.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\obj\Release\TestClient.exe
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\obj\Release\TestClient.pdb

@@ -1,0 +1,10 @@
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestService\bin\Release\TestService.exe.config
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestService\bin\Release\TestService.exe
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestService\bin\Release\TestService.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestService\bin\Release\ClearUsernameBinding.dll
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestService\bin\Release\MyUsernameValidator.dll
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestService\bin\Release\ClearUsernameBinding.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestService\bin\Release\MyUsernameValidator.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestService\obj\Release\TestService.exe
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestService\obj\Release\TestService.pdb

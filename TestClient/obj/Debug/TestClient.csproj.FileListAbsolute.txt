@@ -1,0 +1,16 @@
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\TestClient\bin\Debug\TestClient.exe
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\TestClient\bin\Debug\TestClient.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\TestClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\TestClient\obj\Debug\TestClient.exe
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\TestClient\obj\Debug\TestClient.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\TestClient\bin\Debug\TestClient.exe.config
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\TestClient\bin\Debug\ClearUsernameBinding.dll
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\TestClient\bin\Debug\ClearUsernameBinding.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\bin\Debug\TestClient.exe.config
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\obj\Debug\TestClient.exe
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\obj\Debug\TestClient.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\bin\Debug\TestClient.exe
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\bin\Debug\TestClient.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\bin\Debug\ClearUsernameBinding.dll
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\bin\Debug\ClearUsernameBinding.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestClient\obj\Debug\ResolveAssemblyReference.cache

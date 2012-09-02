@@ -1,0 +1,10 @@
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\MyUsernameValidator\bin\Debug\MyUsernameValidator.dll
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\MyUsernameValidator\bin\Debug\MyUsernameValidator.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\MyUsernameValidator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\MyUsernameValidator\obj\Debug\MyUsernameValidator.dll
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\MyUsernameValidator\obj\Debug\MyUsernameValidator.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\MyUsernameValidator\bin\Debug\MyUsernameValidator.dll
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\MyUsernameValidator\bin\Debug\MyUsernameValidator.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\MyUsernameValidator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\MyUsernameValidator\obj\Debug\MyUsernameValidator.dll
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\MyUsernameValidator\obj\Debug\MyUsernameValidator.pdb

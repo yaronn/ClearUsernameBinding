@@ -1,0 +1,5 @@
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\ClearUserPassBinding\bin\Release\ClearUsernameBinding.dll
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\ClearUserPassBinding\bin\Release\ClearUsernameBinding.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\ClearUserPassBinding\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\ClearUserPassBinding\obj\Release\ClearUsernameBinding.dll
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\ClearUserPassBinding\obj\Release\ClearUsernameBinding.pdb

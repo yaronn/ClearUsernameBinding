@@ -1,0 +1,5 @@
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\UnitTests\bin\Debug\UnitTests.dll
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\UnitTests\bin\Debug\UnitTests.pdb
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\UnitTests\obj\Debug\UnitTests.dll
+C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUserPassBinding\UnitTests\obj\Debug\UnitTests.pdb
