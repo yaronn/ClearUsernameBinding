@@ -1,3 +1,6 @@
+A full tutorial [is here](http://webservices20.blogspot.co.il/2008/11/introducing-wcf-clearusernamebinding.html).
+
+
 ## ClearUsernameBinding
 
 Wcf does not natively allow to send username token over an unsecured transport (namely non-ssl). Trying to do so will results in one out of many errors, typically this one:
@@ -11,5 +14,7 @@ In some cases this is a legitimic use case. Consider the use of a load balancer,
 
 ClearUsernameBinding allows to do this using a very simple configuration.
 
+
 **How to use ClearUsernameBinding?**
-Full details [are here](http://webservices20.blogspot.co.il/2008/11/introducing-wcf-clearusernamebinding.html).
+
+A full tutorial [is here](http://webservices20.blogspot.co.il/2008/11/introducing-wcf-clearusernamebinding.html).
