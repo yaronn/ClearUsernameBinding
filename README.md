@@ -20,6 +20,6 @@ ClearUsernameBinding allows to do this using a very simple configuration.
 
 A full tutorial [is here](http://webservices20.blogspot.co.il/2008/11/introducing-wcf-clearusernamebinding.html).
 
-**License**
+## License
 
 MIT
