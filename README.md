@@ -23,3 +23,7 @@ A full tutorial [is here](http://webservices20.blogspot.co.il/2008/11/introducin
 ## License
 
 MIT: [http://rem.mit-license.org/](http://rem.mit-license.org/)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/yaronn/clearusernamebinding/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
