@@ -11,7 +11,7 @@ Wcf does not natively allow to send username token over an unsecured transport (
 The provided URI scheme 'http' is invalid; expected 'https'. Parameter name: via
 `````
 
-In some cases this is a legitimic use case. Consider the use of a load balancer, or an internal secured network.
+In some cases this is a legitimate use case. Consider the use of a load balancer, or an internal secured network.
 
 ClearUsernameBinding allows to do this using a very simple configuration.
 
